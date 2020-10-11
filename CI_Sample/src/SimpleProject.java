@@ -8,6 +8,8 @@ public class SimpleProject {
 		System.out.println("ci integration");
 		
 		System.out.println("successfully integrated");
+		System.out.println("successfully integrated");
+		System.out.println("successfully done");
 
 	}
 
