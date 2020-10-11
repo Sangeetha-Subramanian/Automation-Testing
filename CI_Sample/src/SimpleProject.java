@@ -10,6 +10,7 @@ public class SimpleProject {
 		System.out.println("successfully integrated");
 		System.out.println("successfully integrated");
 		System.out.println("successfully done");
+		System.out.println("successfully done");
 
 	}
 
